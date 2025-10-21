@@ -1,5 +1,5 @@
 # Links-To-My-Games
-List of links where you can access games I've made public </br>
+List of links to access games that I've made public </br>
 </br>
 Unity Play: https://play.unity.com/en/user/6b3e3fa5-4a7f-49e4-ad1a-e22ae8af100a </br>
 Links to games I made for CS 3540 Game Programming. MCAs were made within 2 days.
