@@ -6,4 +6,4 @@ Links to games I made for CS 3540 Game Programming. MCAs were made within 2 days
 </br>
 </br>
 Game Jam 2025: https://zygarde824.itch.io/rockin-robo </br>
-48-hour game jam where I was sole programmer and level designer. First time working on a 2D platformer.
+48-hour game jam where I was sole programmer. First time working on a 2D platformer.
