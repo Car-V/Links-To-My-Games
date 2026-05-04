@@ -12,6 +12,6 @@ Speculative design project in ShapesXR for ARTD 2000 Intro to Immersive Media.</
 Recording: https://drive.google.com/file/d/1Jp2sP2jP49Ark2GY5MA_wO4DraES8_d6/view?usp=drive_link </br>
 </br>
 Unearthed: https://www.youtube.com/watch?v=AK9VSi5LYxY&feature=youtu.be </br>
-VR Unity project featuring climbing and redirected walking as locomotion, for EXRE 5020 Developing Extended Realities.</br>
+VR Unity project featuring climbing and redirected walking as locomotion, for EXRE 5020 Developing Extended Realities. Created concept and acted as sole programmer.</br>
 </br>
 Current Lead Programmer and narrative designer on unannounced Unreal Engine 5.6 game.
