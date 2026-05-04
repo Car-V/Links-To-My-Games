@@ -9,4 +9,9 @@ Game Jam 2025: https://zygarde824.itch.io/rockin-robo </br>
 </br>
 VR Dystopian App Experience: https://shapes.app/space/view/c1e4fc0f-aeb4-4e2c-a683-4a476d9e1503/7x9xaawc</br>
 Speculative design project in ShapesXR for ARTD 2000 Intro to Immersive Media.</br>
-Recording: https://drive.google.com/file/d/1Jp2sP2jP49Ark2GY5MA_wO4DraES8_d6/view?usp=drive_link 
+Recording: https://drive.google.com/file/d/1Jp2sP2jP49Ark2GY5MA_wO4DraES8_d6/view?usp=drive_link </br>
+</br>
+Unearthed: https://www.youtube.com/watch?v=AK9VSi5LYxY&feature=youtu.be </br>
+VR Unity project featuring climbing and redirected walking as locomotion, for EXRE 5020 Developing Extended Realities.</br>
+</br>
+Currently working as Lead Programmer and narrative designer on unannounced Unreal Engine 5.6 game.
