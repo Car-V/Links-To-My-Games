@@ -14,4 +14,6 @@ Recording: https://drive.google.com/file/d/1Jp2sP2jP49Ark2GY5MA_wO4DraES8_d6/vie
 Unearthed: https://www.youtube.com/watch?v=AK9VSi5LYxY&feature=youtu.be </br>
 VR Unity project featuring climbing and redirected walking as locomotion, for EXRE 5020 Developing Extended Realities. Created concept and acted as sole programmer alongside three artists.</br>
 </br>
-Current Lead Programmer and narrative designer on unannounced Unreal Engine 5.6 game.
+Current Lead Programmer and narrative designer on unannounced Unreal Engine 5.6 game. </br>
+</br>
+Bonus 3D Animation: https://youtu.be/Pc47vYn8eSI
