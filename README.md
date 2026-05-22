@@ -16,4 +16,4 @@ VR Unity project featuring climbing and redirected walking as locomotion, for EX
 </br>
 Current Lead Programmer and narrative designer on unannounced Unreal Engine 5.6 game. </br>
 </br>
-Bonus 3D Animation: https://youtu.be/Pc47vYn8eSI
+Bonus Animation Reel: https://youtu.be/8JYhGPUsF2g
