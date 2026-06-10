@@ -3,6 +3,7 @@ List of links to my publicly accessible games</br>
 </br>
 Game Jam 2025: https://zygarde824.itch.io/rockin-robo </br>
 Developed Unity2D platformer game for Husky Jam in under 48 hours. Acted as sole programmer and level designer, conceptualized premise and mechanics, and implemented assets from two artists and music composer. Within 2-day duration, first time creating a 2D game and pixel art animations. </br>
+Repo: https://github.com/Car-V/Game_Jam_2025 </br>
 </br>
 Unearthed: https://www.youtube.com/watch?v=AK9VSi5LYxY&feature=youtu.be </br>
 Developed 5-min VR experience in Unity for Meta Quest 3. Locomotion combines climbing with redirected walking and rotating world to avoid drawbacks of joystick movement and teleportation, such as cybersickness and sudden disorientation. Created concept and acted as sole programmer, working alongside three artists. Made for EXRE 5020 Developing Extended Realities.</br>
